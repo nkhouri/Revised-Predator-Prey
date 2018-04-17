@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\nick\desktop\visual studio projects\revised predator prey\sfml template\sfml template\main.cpp(51): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\nick\desktop\visual studio projects\revised predator prey\sfml template\sfml template\main.cpp(114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nick\desktop\visual studio projects\revised predator prey\sfml template\sfml template\main.cpp(118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nick\desktop\visual studio projects\revised predator prey\sfml template\sfml template\main.cpp(127): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\nick\desktop\visual studio projects\revised predator prey\sfml template\sfml template\main.cpp(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nick\desktop\visual studio projects\revised predator prey\sfml template\sfml template\main.cpp(133): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\nick\desktop\visual studio projects\revised predator prey\sfml template\sfml template\main.cpp(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nick\desktop\visual studio projects\revised predator prey\sfml template\sfml template\main.cpp(145): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\nick\desktop\visual studio projects\revised predator prey\sfml template\sfml template\main.cpp(152): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\nick\desktop\visual studio projects\revised predator prey\sfml template\sfml template\main.cpp(159): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  SFML Template.vcxproj -> C:\Users\Nick\Desktop\Visual Studio Projects\Revised Predator Prey\SFML Template\Debug\SFML Template.exe
